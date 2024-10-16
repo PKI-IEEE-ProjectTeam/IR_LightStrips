@@ -12,3 +12,5 @@ The WS2812B allows for individual LED's to be individually addressed. This allow
 
 ### IR remote
 There are multiple IR remotes in the IEEE room at the moment and several IR receivers. DroneBot workshop made an excellent [article](https://dronebotworkshop.com/using-ir-remote-controls-with-arduino/) on the topic.
+
+
